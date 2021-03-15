@@ -1,3 +1,7 @@
+---
+title: Privacy policy
+nav_order: 1
+---
 **Privacy Policy**
 
 Renato Balcázar & David Pardo built the Acacyan app as a Free app. This SERVICE is provided by Renato Balcázar & David Pardo at no cost and is intended for use as is.
